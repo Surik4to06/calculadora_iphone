@@ -80,7 +80,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#" title="Gabriel Alcantara">
+      <a href="#" title="Surik4to06">
         <img src="https://avatars.githubusercontent.com/u/145988210?v=4" width="100px;" alt="foto do Surik4to06 no GitHub"/><br>
         <sub>
           <b>Surik4to06 (Richard Silva Leão)</b>
