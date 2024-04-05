@@ -90,7 +90,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-
 ## 📝 Licença
 
 Ainda trabalhando em uma licença.......
